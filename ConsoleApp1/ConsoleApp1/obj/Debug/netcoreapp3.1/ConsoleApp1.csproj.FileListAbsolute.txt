@@ -11,3 +11,4 @@ C:\Users\jacob\source\repos\test2repo\ConsoleApp1\ConsoleApp1\obj\Debug\netcorea
 C:\Users\jacob\source\repos\test2repo\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
 C:\Users\jacob\source\repos\test2repo\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
 C:\Users\jacob\source\repos\test2repo\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache
+C:\Users\jacob\source\repos\test2repo\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.AssemblyReference.cache
